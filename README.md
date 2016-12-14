@@ -1,2 +1,3 @@
 # opengaming
-Tools for accessing OGL licensed resources
+
+A place for homegrown, TableTech contributions to the OpenGaming community in parallel with our work on the RPG IRC/#Slack bot and associated infrastructure. Included in this repository are copies of both GNU GPLv3.0 and the OGLv1.0a, to cover both code and open content.
